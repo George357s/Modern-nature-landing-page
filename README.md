@@ -1,5 +1,5 @@
 # Modern-nature-landing-page
-Sleek landing page
+Sleek landing page.
 A responsive website landing page using the latest CSS grid, Flexbox technology, and plain Js.
 Design inspiration from: 
 https://www.pinterest.com/pin/855895104183569244/
