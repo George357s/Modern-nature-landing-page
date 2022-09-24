@@ -16,7 +16,6 @@ Some of the things I learned during this exercise is:
 - Make slider with plain Js
 - how to import library using cdnjs
 
-
 Project Dependencies:
 
 Font Awesome:
